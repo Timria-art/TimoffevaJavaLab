@@ -10,17 +10,17 @@ public class Main {
             System.out.println("A меньше B");
         }
 
-        if () {
+        if (a < b) {
             System.out.println();
-        } else if () {
+        } else if (a == b) {
             System.out.println();
         } else {
             System.out.println();
         }
 
-        if () {
+        if (a == b) {
             System.out.println();
-        } else if () {
+        } else if (a < b) {
             System.out.println();
         } else {
             System.out.println();
